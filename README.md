@@ -11,6 +11,7 @@ Here I intend to document and organize all my mapping projects
 [PlayzinhoAgroImports](https://www.openstreetmap.org/user/PlayzinhoAgro-imports)
 
 ## Projects
+Projects in Progress, you can see all projects in [OSM_Projects](https://github.com/users/Playzinho/projects/2/views/1)
 |  Name | Description |
 |---|---|
 |[#IMPORTPMFBUILDINGS](https://wiki.openstreetmap.org/wiki/Pt:Fortaleza/Importa%C3%A7%C3%A3o_de_Edif%C3%ADcios_PMF)|Import and review of the buildings of the city of Fortaleza, using Taskmanager for import review [Project kaban](https://github.com/users/Playzinho/projects/3/views/1)|
