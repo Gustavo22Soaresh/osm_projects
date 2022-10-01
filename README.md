@@ -13,8 +13,8 @@ Here I intend to document and organize all my mapping projects
 ## Projects
 |  Name | Description |
 |---|---|
-|[#IMPORTPMFBUILDINGS](https://wiki.openstreetmap.org/wiki/Pt:Fortaleza/Importa%C3%A7%C3%A3o_de_Edif%C3%ADcios_PMF)|   |
-|[Brazil Wikidata - Agências Bancarias](https://maproulette.org/browse/challenges/28957) |   |
+|[#IMPORTPMFBUILDINGS](https://wiki.openstreetmap.org/wiki/Pt:Fortaleza/Importa%C3%A7%C3%A3o_de_Edif%C3%ADcios_PMF)|Import and review of the buildings of the city of Fortaleza, using Taskmanager for import review [Project kaban](https://github.com/users/Playzinho/projects/3/views/1)|
+|[Brazil Wikidata - Agências Bancarias](https://maproulette.org/browse/challenges/28957) | Correction and standardization of the Banks' branches according to the NSI https://github.com/osmlab/name-suggestion-index |
 |Brazil Wikidata - Correios| |
 |Brazil Wikidata - Samu 192| |
 
