@@ -95,3 +95,16 @@ out body;
 >;
 out skel qt;
 ```
+
+### Helipad
+```
+[out:json][timeout:120];
+{{geocodeArea:brazil}}->.searchArea;
+(
+  node["aeroway"="helipad"](area.searchArea);
+  
+);
+out body;
+>;
+out skel qt;
+```
