@@ -108,3 +108,15 @@ out body;
 >;
 out skel qt;
 ```
+
+### Leisure Sport_center
+```
+[out:json][timeout:120];
+{{geocodeArea:brazil}}->.searchArea;
+(
+  node["leisure"="sports_centre"](area.searchArea);
+);
+out body;
+>;
+out skel qt;
+```
