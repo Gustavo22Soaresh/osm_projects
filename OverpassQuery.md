@@ -120,3 +120,28 @@ out body;
 >;
 out skel qt;
 ```
+
+# Wetland
+```
+[out:json][timeout:120];
+{{geocodeArea:brazil}}->.searchArea;
+(
+  node["natural"="wetland"](area.searchArea);
+);
+out body;
+>;
+out skel qt;
+```
+
+### tree areas
+```
+[out:json][timeout:120];
+{{geocodeArea:brazil}}->.searchArea;
+(
+  way["natural"="tree"](area.searchArea);
+  relation["natural"="tree"](area.searchArea);
+);
+out body;
+>;
+out skel qt;
+```
