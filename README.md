@@ -11,16 +11,16 @@ Here I intend to document and organize all my mapping projects
 [PlayzinhoAgroImports](https://www.openstreetmap.org/user/PlayzinhoAgro-imports)
 
 ## Projects
-Projects in Progress, you can see all projects in [OSM_Projects](https://github.com/users/Playzinho/projects/2/views/1)
+Projects in Progress. You can see all projects in [OSM_Projects](https://github.com/users/Playzinho/projects/2/views/1)
 |  Name | Description |
 |---|---|
-|[#IMPORTPMFBUILDINGS](https://wiki.openstreetmap.org/wiki/Pt:Fortaleza/Importa%C3%A7%C3%A3o_de_Edif%C3%ADcios_PMF)|Import and review of the buildings of the city of Fortaleza, using Taskmanager for import review [Project kaban](https://github.com/users/Playzinho/projects/3/views/1)|
-|[Brazil Wikidata - Agências Bancarias](https://maproulette.org/browse/challenges/28957) | Correction and standardization of the Banks' branches according to the NSI https://github.com/osmlab/name-suggestion-index |
+|[#importPMFBuildings](https://wiki.openstreetmap.org/wiki/Pt:Fortaleza/Importa%C3%A7%C3%A3o_de_Edif%C3%ADcios_PMF)|Import and review of the buildings of the city of Fortaleza, using Taskmanager to review the import. [Project Kanban](https://github.com/users/Playzinho/projects/3/views/1)|
+|[Brazil Wikidata - Agências Bancárias](https://maproulette.org/browse/challenges/28957) | Correction and standardization of the Banks' branches according to the NSI https://github.com/osmlab/name-suggestion-index |
 |Brazil Wikidata - Correios| |
 |Brazil Wikidata - Samu 192| |
 
 <p>
-<a href="https://opencollective.com/webpack/donate" target="_blank">
+<a href="https://opencollective.com/playzinhoagro" target="_blank">
   <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
 </a>
   </p>
