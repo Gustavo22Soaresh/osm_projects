@@ -42,4 +42,6 @@ Projects in Progress. You can see all projects in [OSM_Projects](https://github.
 <a href="https://opencollective.com/playzinhoagro/vila/4/website" target="_blank">
 <img src="https://opencollective.com/playzinhoagro/vila/4/avatar.svg">
 </a>
-
+<a href="https://opencollective.com/playzinhoagro/vila/5/website" target="_blank">
+<img src="https://opencollective.com/playzinhoagro/vila/5/avatar.svg">
+</a>
