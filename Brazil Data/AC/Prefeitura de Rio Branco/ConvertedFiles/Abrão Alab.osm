@@ -1,0 +1,1941 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-1142728' lat='-9.9722521' lon='-67.8214303'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142729' lat='-9.972008' lon='-67.8272791'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='660' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142730' lat='-9.9724983' lon='-67.8236255'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='263' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142731' lat='-9.9724579' lon='-67.8243496'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='343' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142732' lat='-9.9722478' lon='-67.8215161'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142733' lat='-9.9724862' lon='-67.8238075'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='281' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142734' lat='-9.9720022' lon='-67.8275541'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='690' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142736' lat='-9.972641' lon='-67.8213971'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142737' lat='-9.9724667' lon='-67.8241685'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='325' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142738' lat='-9.9723992' lon='-67.8254457'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='463' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142739' lat='-9.9725651' lon='-67.8222284'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142740' lat='-9.9720009' lon='-67.827643'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='698' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142741' lat='-9.972009' lon='-67.8271892'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='650' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142743' lat='-9.9720234' lon='-67.8265358'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='582' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142744' action='modify' lat='-9.972089' lon='-67.8267315'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:street' v='Rua Itamaracá' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142745' lat='-9.972504' lon='-67.8235339'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='253' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142746' lat='-9.9724995' lon='-67.8228306'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='173' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142747' lat='-9.9721935' lon='-67.8242203'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='300' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142748' lat='-9.9724335' lon='-67.8248134'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='391' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142749' lat='-9.9725682' lon='-67.827418'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='685' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142750' lat='-9.9725799' lon='-67.8221263'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142751' lat='-9.9725404' lon='-67.8220169'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142752' action='modify' lat='-9.9725855' lon='-67.8218272'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142755' lat='-9.9720064' lon='-67.8273706'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='670' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142756' lat='-9.9720115' lon='-67.8270034'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='632' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142757' lat='-9.9723641' lon='-67.8278849'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='725' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142759' lat='-9.9724059' lon='-67.8253532'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='453' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142760' lat='-9.972451' lon='-67.8244433'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='353' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142762' lat='-9.9723497' lon='-67.8258143'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='503' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142763' lat='-9.9720015' lon='-67.8277359'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='716' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142764' lat='-9.9720258' lon='-67.8263486'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='562' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142766' lat='-9.972439' lon='-67.8247186'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='383' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142767' lat='-9.9720816' lon='-67.8255152'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='482' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142768' lat='-9.9722001' lon='-67.822684'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='168' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142769' lat='-9.972389' lon='-67.8256323'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='483' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142770' lat='-9.9724225' lon='-67.8250868'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='423' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142773' lat='-9.9725636' lon='-67.8211821'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142775' lat='-9.9725644' lon='-67.8223418'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='123' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142776' lat='-9.9721747' lon='-67.8228496'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='184' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142777' lat='-9.9722168' lon='-67.8218087'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='648' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142778' lat='-9.9720089' lon='-67.8270971'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='640' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142779' lat='-9.9724302' lon='-67.8249036'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='403' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142780' lat='-9.9723937' lon='-67.8255389'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='473' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142781' lat='-9.9720288' lon='-67.826255'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='552' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142782' lat='-9.9720049' lon='-67.8274634'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='680' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142784' lat='-9.9721703' lon='-67.8231197'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='210' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142785' lat='-9.9720231' lon='-67.8264417'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='572' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142786' lat='-9.972425' lon='-67.8249947'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='413' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142787' lat='-9.9724168' lon='-67.8265361'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='577' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142788' lat='-9.9725217' lon='-67.8233473'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='235' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142789' lat='-9.9724851' lon='-67.8239007'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='293' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142790' lat='-9.9723837' lon='-67.8257248'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='493' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142791' lat='-9.9724917' lon='-67.8237165'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='273' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142792' lat='-9.972448' lon='-67.8245373'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='361' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142793' lat='-9.9721547' lon='-67.825056'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='420' />
+    <tag k='addr:street' v='Rua Ari Rodrigues' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142794' lat='-9.9720762' lon='-67.8220905'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='139' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142795' lat='-9.972192' lon='-67.8220872'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='123' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142796' lat='-9.9728798' lon='-67.8221228'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142797' lat='-9.9719666' lon='-67.8220695'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142798' lat='-9.9726756' lon='-67.822027'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142800' lat='-9.9722956' lon='-67.8220957'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142801' lat='-9.9728911' lon='-67.8216655'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142802' lat='-9.9718711' lon='-67.8220384'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='157' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142803' lat='-9.9719343' lon='-67.8257009'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='136' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142804' lat='-9.9724934' lon='-67.8260889'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142805' lat='-9.9727375' lon='-67.8257311'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142806' lat='-9.972023' lon='-67.8257046'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142807' lat='-9.972395' lon='-67.8260451'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142808' lat='-9.9712922' lon='-67.8256643'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='202' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142810' lat='-9.972484' lon='-67.8258194'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142811' lat='-9.9725632' lon='-67.8257285'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142812' lat='-9.9709842' lon='-67.8257016'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='236' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142813' lat='-9.9718405' lon='-67.8256938'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142814' lat='-9.9715706' lon='-67.8256775'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142815' lat='-9.9712022' lon='-67.8256589'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='216' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142816' lat='-9.9713837' lon='-67.825669'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='194' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142817' lat='-9.972289' lon='-67.8260396'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='529' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142818' lat='-9.9725836' lon='-67.8260862'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142819' lat='-9.9714747' lon='-67.8256732'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='184' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142820' lat='-9.971749' lon='-67.8256902'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='154' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142821' lat='-9.9721003' lon='-67.8260732'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142822' lat='-9.9726686' lon='-67.8260941'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142824' lat='-9.9726499' lon='-67.825735'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='Rua Ernesto Sales' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142825' lat='-9.9717156' lon='-67.826706'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='585' />
+    <tag k='addr:street' v='Rua Itamaracá' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142826' lat='-9.9719065' lon='-67.8267175'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='348' />
+    <tag k='addr:street' v='Rua Itamaracá' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142827' lat='-9.9726631' lon='-67.8268488'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='266' />
+    <tag k='addr:street' v='Rua Itamaracá' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142828' lat='-9.971817' lon='-67.8267121'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='358' />
+    <tag k='addr:street' v='Rua Itamaracá' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142829' lat='-9.9719991' lon='-67.8267272'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:street' v='Rua Itamaracá' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142830' lat='-9.9727877' lon='-67.8268519'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='254' />
+    <tag k='addr:street' v='Rua Itamaracá' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142831' action='modify' lat='-9.9717807' lon='-67.8278305'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='719' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142832' action='modify' lat='-9.9712924' lon='-67.8277992'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='990' />
+    <tag k='addr:street' v='Rua Leblon' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142833' lat='-9.9707281' lon='-67.8272924'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='991' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142834' lat='-9.9709856' lon='-67.824631'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='691' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142835' lat='-9.9707204' lon='-67.8273833'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='261' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142836' lat='-9.971011' lon='-67.8242693'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='655' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142837' lat='-9.970895' lon='-67.825642'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='805' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142838' lat='-9.9709104' lon='-67.8254537'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='785' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142839' lat='-9.9710057' lon='-67.8243609'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='665' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142840' lat='-9.9713434' lon='-67.821677'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='369' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142841' lat='-9.9712522' lon='-67.8224216'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='455' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142842' lat='-9.97124' lon='-67.8225315'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='461' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142843' lat='-9.9709406' lon='-67.8250969'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='745' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142844' lat='-9.9709574' lon='-67.8249095'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='725' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142845' lat='-9.9709498' lon='-67.8250013'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='735' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142846' lat='-9.970903' lon='-67.8255483'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='795' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142847' lat='-9.9710926' lon='-67.8233817'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='553' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142848' lat='-9.9707471' lon='-67.8270239'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='957' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142849' lat='-9.9712218' lon='-67.8227566'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='487' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142850' lat='-9.971211' lon='-67.8228664'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='497' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142851' lat='-9.9710289' lon='-67.8240938'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='633' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142852' lat='-9.9707075' lon='-67.8275647'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1017' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142855' lat='-9.971191' lon='-67.8230874'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='523' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142857' lat='-9.9706923' lon='-67.827762'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1041' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142859' lat='-9.9712327' lon='-67.8226451'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='471' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142860' lat='-9.9707402' lon='-67.8271132'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='969' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142861' lat='-9.9710175' lon='-67.8241813'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='651' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142862' lat='-9.9707326' lon='-67.8272027'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='981' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142863' lat='-9.9712001' lon='-67.822978'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='515' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142864' lat='-9.9709737' lon='-67.8247275'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='705' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142865' lat='-9.9710824' lon='-67.8234841'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='563' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142866' lat='-9.9707003' lon='-67.8276544'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='799' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142868' lat='-9.971104' lon='-67.8232817'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='543' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142869' lat='-9.9707134' lon='-67.8274755'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1007' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142870' lat='-9.9712886' lon='-67.8222283'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='425' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142871' lat='-9.9712671' lon='-67.8223188'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='445' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142872' lat='-9.9709637' lon='-67.824819'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='713' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142873' lat='-9.9709924' lon='-67.8244515'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='675' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142874' lat='-9.9712765' lon='-67.8221365'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='415' />
+    <tag k='addr:street' v='Rua Major Ladislau Ferreira' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142876' lat='-9.9728414' lon='-67.8227138'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='163' />
+    <tag k='addr:street' v='Rua Manoel Jorge' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142877' lat='-9.9730121' lon='-67.8227291'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Rua Manoel Jorge' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142879' lat='-9.9729878' lon='-67.8224983'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Rua Manoel Jorge' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142880' lat='-9.9725748' lon='-67.8224888'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='Rua Manoel Jorge' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142881' lat='-9.970965' lon='-67.8270338'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142882' lat='-9.9709525' lon='-67.8272153'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142883' lat='-9.9712574' lon='-67.8271386'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142884' lat='-9.9709377' lon='-67.8273966'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142886' lat='-9.9709124' lon='-67.8277793'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1038' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142887' lat='-9.9712483' lon='-67.8274162'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142888' lat='-9.9712555' lon='-67.8272313'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142889' lat='-9.9709586' lon='-67.8271242'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142890' lat='-9.9712662' lon='-67.8269553'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142891' lat='-9.9712478' lon='-67.8275077'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142892' lat='-9.9712435' lon='-67.8275981'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142893' lat='-9.9712525' lon='-67.8273236'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142894' lat='-9.9709192' lon='-67.8276671'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142895' lat='-9.9709723' lon='-67.8269432'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142896' lat='-9.9712421' lon='-67.8276899'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142897' lat='-9.9709318' lon='-67.8274875'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142898' lat='-9.9709439' lon='-67.8273059'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142899' lat='-9.9712611' lon='-67.8270477'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142900' lat='-9.9709264' lon='-67.8275771'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:street' v='Rua Pio XII' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142901' lat='-9.9730563' lon='-67.8212965'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='570' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142902' lat='-9.9730604' lon='-67.8235631'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='988' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142904' lat='-9.9730201' lon='-67.8244795'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1090' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142905' lat='-9.9729395' lon='-67.8256'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1214' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142906' lat='-9.9729863' lon='-67.8251094'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1158' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142907' lat='-9.9731537' lon='-67.8225107'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='870' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142909' lat='-9.9731808' lon='-67.8227433'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='898' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142910' lat='-9.9729913' lon='-67.8250165'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1148' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142911' lat='-9.9728221' lon='-67.8264364'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1292' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142912' lat='-9.9731086' lon='-67.8217297'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='786' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142913' lat='-9.9730989' lon='-67.8222919'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='850' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142914' lat='-9.9730601' lon='-67.8214051'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='748' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142915' lat='-9.9729807' lon='-67.8251965'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1166' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142916' lat='-9.973055' lon='-67.8236528'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1000' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142917' lat='-9.9729358' lon='-67.8257819'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1234' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142918' lat='-9.9729308' lon='-67.8268527'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1346' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142920' lat='-9.9731056' lon='-67.821839'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='798' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142921' lat='-9.9730662' lon='-67.8234231'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='978' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142922' lat='-9.9730463' lon='-67.8209408'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='520' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142923' lat='-9.9730737' lon='-67.8221506'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='836' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142924' lat='-9.9728698' lon='-67.8261752'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1282' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142925' lat='-9.9730018' lon='-67.8247888'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1126' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142926' lat='-9.9730836' lon='-67.8223824'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='860' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142928' lat='-9.9730226' lon='-67.8243856'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1082' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142929' lat='-9.9728952' lon='-67.8260475'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1260' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142931' lat='-9.9731251' lon='-67.822838'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142932' lat='-9.9729968' lon='-67.8249236'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1136' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142933' lat='-9.9731546' lon='-67.8220626'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='83' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142934' lat='-9.9730484' lon='-67.8238847'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1016' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142935' lat='-9.973053' lon='-67.8237428'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1008' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142937' lat='-9.9730342' lon='-67.8242018'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1052' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142938' lat='-9.973012' lon='-67.824576'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1100' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142940' lat='-9.9729556' lon='-67.8254176'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1198' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142941' lat='-9.9727039' lon='-67.8278937'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='1466' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142942' lat='-9.9728501' lon='-67.8211027'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='728' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142943' lat='-9.9730703' lon='-67.8231527'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='746' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142944' lat='-9.9727266' lon='-67.8211549'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='730' />
+    <tag k='addr:street' v='Rua Rio de Janeiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142945' lat='-9.9719313' lon='-67.823109'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142946' lat='-9.9716306' lon='-67.821353'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142947' lat='-9.9717893' lon='-67.8263447'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='555' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142948' lat='-9.9717761' lon='-67.8276311'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='701' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142949' lat='-9.9717832' lon='-67.8265228'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='575' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142950' lat='-9.97157' lon='-67.8225406'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='142' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142951' lat='-9.971463' lon='-67.8273374'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='668' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142952' lat='-9.9718132' lon='-67.8261084'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='533' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142953' lat='-9.9714597' lon='-67.8275206'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='690' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142954' lat='-9.9714604' lon='-67.8274285'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='680' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142955' lat='-9.9719709' lon='-67.8212934'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142956' lat='-9.9717755' lon='-67.8274485'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='679' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142957' lat='-9.9716188' lon='-67.821683'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142958' lat='-9.9719855' lon='-67.8215'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142959' lat='-9.9719517' lon='-67.8226357'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='149' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142960' lat='-9.971956' lon='-67.8227346'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='159' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142961' lat='-9.9719801' lon='-67.8215948'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142962' lat='-9.9716154' lon='-67.8217942'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142963' lat='-9.971548' lon='-67.8229974'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='188' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142964' lat='-9.9719331' lon='-67.8229837'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='187' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142965' lat='-9.971552' lon='-67.8228838'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='176' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142966' lat='-9.9717775' lon='-67.8277236'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='711' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142967' lat='-9.9715558' lon='-67.8227724'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='164' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142968' action='modify' lat='-9.9714506' lon='-67.8278096'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='978' />
+    <tag k='addr:street' v='Rua Leblon' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142970' lat='-9.9716221' lon='-67.8219189'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142971' lat='-9.9714678' lon='-67.8272437'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='658' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142972' lat='-9.971994' lon='-67.8213875'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142973' lat='-9.9717781' lon='-67.8270839'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='635' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142975' lat='-9.9714577' lon='-67.8276124'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='700' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142976' lat='-9.9715823' lon='-67.8224226'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142977' lat='-9.9714682' lon='-67.827151'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='646' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142978' lat='-9.9719336' lon='-67.8228556'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='177' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142979' lat='-9.971943' lon='-67.8225509'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142980' lat='-9.9715186' lon='-67.8250384'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='416' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142981' lat='-9.9717767' lon='-67.8271767'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='649' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142983' lat='-9.9716257' lon='-67.821455'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142984' lat='-9.9717768' lon='-67.8272672'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='659' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142985' lat='-9.9717871' lon='-67.8264367'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='565' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142986' lat='-9.9714543' lon='-67.8277032'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='710' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142987' lat='-9.9719735' lon='-67.8216852'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142988' lat='-9.9719794' lon='-67.8217896'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142989' lat='-9.9714701' lon='-67.8270626'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='636' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142992' lat='-9.9714728' lon='-67.8269704'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='624' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142993' lat='-9.9715624' lon='-67.8226595'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='152' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142994' lat='-9.9718621' lon='-67.8235345'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='255' />
+    <tag k='addr:street' v='Rua Rubens Carneiro' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142996' lat='-9.9710397' lon='-67.8239946'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='231' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142997' lat='-9.9722247' lon='-67.823771'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='266' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1142998' lat='-9.9726494' lon='-67.8241803'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143000' lat='-9.9721068' lon='-67.8241437'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143001' lat='-9.9715815' lon='-67.8237319'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='182' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143002' lat='-9.9720393' lon='-67.8237586'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='130' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143003' lat='-9.9715641' lon='-67.8241204'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='179' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143004' lat='-9.9722018' lon='-67.824084'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143005' lat='-9.9728587' lon='-67.8238317'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143006' lat='-9.9721304' lon='-67.8237675'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143007' lat='-9.9716699' lon='-67.8237338'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143009' lat='-9.9719478' lon='-67.823756'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143010' lat='-9.9712922' lon='-67.8241007'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143011' lat='-9.971305' lon='-67.8237157'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='210' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143012' lat='-9.9728349' lon='-67.8241915'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143013' lat='-9.9727647' lon='-67.8238246'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143015' lat='-9.9711999' lon='-67.8240933'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='221' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143017' lat='-9.972744' lon='-67.8241871'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143018' lat='-9.9718494' lon='-67.8237494'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143019' lat='-9.971924' lon='-67.8241353'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143020' lat='-9.9718275' lon='-67.8241351'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='153' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143021' lat='-9.9714722' lon='-67.8241139'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='193' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143022' lat='-9.9726706' lon='-67.8238202'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143023' lat='-9.9713826' lon='-67.8241068'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='199' />
+    <tag k='addr:street' v='Rua Veterano Henrique Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143024' lat='-9.9714932' lon='-67.8253994'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='185' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143025' lat='-9.9727935' lon='-67.8250948'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143026' lat='-9.9713999' lon='-67.8253968'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='193' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143027' lat='-9.9719046' lon='-67.8254233'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143028' lat='-9.9712368' lon='-67.8250203'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='210' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143029' lat='-9.971587' lon='-67.8254089'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143030' lat='-9.9717865' lon='-67.8250452'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143031' lat='-9.9725799' lon='-67.8254526'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143032' lat='-9.9711467' lon='-67.825018'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='220' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143033' lat='-9.9720608' lon='-67.8250603'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143034' lat='-9.9713308' lon='-67.8250281'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='206' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143036' lat='-9.9711256' lon='-67.8253795'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='221' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143037' lat='-9.9709978' lon='-67.8253216'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='237' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143038' lat='-9.9726499' lon='-67.8250928'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143039' lat='-9.9717681' lon='-67.8254183'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='155' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143040' lat='-9.9718761' lon='-67.8250499'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143041' lat='-9.9727127' lon='-67.8254513'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143042' lat='-9.9720405' lon='-67.8253814'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143044' lat='-9.9721517' lon='-67.8251406'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143045' lat='-9.9724164' lon='-67.8251779'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143046' lat='-9.9719667' lon='-67.8250565'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143047' lat='-9.9721307' lon='-67.8253874'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:street' v='Rua Veterano Manoel Avelino' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143049' lat='-9.9716784' lon='-67.8234155'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='173' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143050' lat='-9.9716291' lon='-67.8231112'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='184' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143051' lat='-9.9714205' lon='-67.8234085'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='199' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143052' lat='-9.971592' lon='-67.8234158'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143053' lat='-9.9728979' lon='-67.8231141'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143054' lat='-9.972784' lon='-67.8235008'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143055' lat='-9.9726938' lon='-67.8234934'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143056' lat='-9.9722418' lon='-67.82345'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143057' lat='-9.9720599' lon='-67.8234389'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='129' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143058' lat='-9.9726396' lon='-67.8230329'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143059' lat='-9.971239' lon='-67.8233952'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='219' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143060' lat='-9.9719681' lon='-67.8234372'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143061' lat='-9.9724788' lon='-67.82304'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143062' lat='-9.9721506' lon='-67.823445'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143063' lat='-9.9714482' lon='-67.8231014'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='204' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143065' lat='-9.9727735' lon='-67.8230701'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143066' lat='-9.9718703' lon='-67.8233748'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='153' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143067' lat='-9.9713314' lon='-67.8234003'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='209' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143068' lat='-9.9715071' lon='-67.8234119'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='197' />
+    <tag k='addr:street' v='Rua Veterano Manoel de Barros' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143069' lat='-9.9727078' lon='-67.8248218'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143070' lat='-9.9726157' lon='-67.8248167'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143071' lat='-9.9711662' lon='-67.8247335'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='221' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143073' lat='-9.9717999' lon='-67.824768'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143074' lat='-9.9715392' lon='-67.8243912'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='182' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143075' lat='-9.9718165' lon='-67.8244037'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='154' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143076' lat='-9.9718902' lon='-67.8247736'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='143' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143077' lat='-9.9719805' lon='-67.8247796'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143078' lat='-9.9716369' lon='-67.8243954'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143079' lat='-9.9712548' lon='-67.8247436'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='211' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143081' lat='-9.9726342' lon='-67.8244546'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143082' lat='-9.972001' lon='-67.8244122'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='138' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143083' lat='-9.9713463' lon='-67.8247468'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143084' lat='-9.9711816' lon='-67.8243694'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='220' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143085' lat='-9.9714467' lon='-67.8243901'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='196' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143086' lat='-9.9719085' lon='-67.8244088'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143087' lat='-9.9720726' lon='-67.8247853'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143088' lat='-9.9714904' lon='-67.824755'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='177' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143089' lat='-9.9728038' lon='-67.8248252'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143090' lat='-9.9712711' lon='-67.8243788'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='212' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143091' lat='-9.9728177' lon='-67.8244679'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143092' lat='-9.9713574' lon='-67.8243828'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='200' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143093' lat='-9.9720918' lon='-67.8244171'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='128' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143094' lat='-9.9721834' lon='-67.8244208'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:street' v='Rua Veterano Telmo Julião' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+  <node id='-1143095' action='modify' lat='-9.9727848' lon='-67.8217258'>
+    <tag k='addr:city' v='Rio Branco' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:street' v='Rua Carmópolis' />
+    <tag k='addr:suburb' v='Abraão Alab' />
+  </node>
+</osm>
